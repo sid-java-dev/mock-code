@@ -1,0 +1,5 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(òÎùé8ç²ÿƒ€2
+L	java:S106	"+Replace this use of System.out by a logger.(±Â¯Èüÿÿÿÿ8†³ÿƒ€2
+X
+java:S1854""<Remove this useless assignment to local variable "maxCount".(‰ûÑg8ˆ³ÿƒ€2
